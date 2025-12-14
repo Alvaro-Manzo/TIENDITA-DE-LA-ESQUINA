@@ -284,8 +284,7 @@ Este proyecto es de **uso educativo**. Libre para aprender, modificar y distribu
 
 ## 🙏 Agradecimientos
 
-Desarrollado con ❤️ para la comunidad educativa mexicana.
-
+Desarrollado con ❤️ 
 Productos y marcas mencionadas son propiedad de sus respectivos dueños.
 
 ---
