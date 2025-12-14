@@ -1,0 +1,29 @@
+[
+  {
+    "username": "owner",
+    "password_hash": "43a0d17178a9d26c9e0fe9a74b0b45e38d32f27aed887a008a54bf6e033bf7b9",
+    "rol": "OWNER",
+    "nombre_completo": "Propietario",
+    "activo": true,
+    "fecha_creacion": "2025-12-13T00:00:00",
+    "ultimo_acceso": "2025-12-13T18:14:26.969490"
+  },
+  {
+    "username": "admin",
+    "password_hash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "rol": "ADMIN",
+    "nombre_completo": "Alvaro",
+    "activo": true,
+    "fecha_creacion": "2025-12-13T00:00:00",
+    "ultimo_acceso": "2025-12-13T18:40:34.809759"
+  },
+  {
+    "username": "cajero",
+    "password_hash": "1ed4353e845e2e537e017c0fac3a0d402d231809b7989e90da15191c1148a93f",
+    "rol": "CAJERO",
+    "nombre_completo": "Cajero",
+    "activo": true,
+    "fecha_creacion": "2025-12-13T00:00:00",
+    "ultimo_acceso": "2025-12-13T18:13:50.655938"
+  }
+]

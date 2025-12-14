@@ -1,0 +1,219 @@
+[
+  {
+    "folio": "20251213-0001",
+    "cajero": "admin",
+    "items": [
+      {
+        "codigo_barras": "9900000100490",
+        "nombre": "Alpura Crema 500ml",
+        "cantidad": 1,
+        "precio_unitario": 28.0,
+        "subtotal": 28.0
+      },
+      {
+        "codigo_barras": "9900000003852",
+        "nombre": "Coca-Cola Cola 2L",
+        "cantidad": 1,
+        "precio_unitario": 15.0,
+        "subtotal": 15.0
+      }
+    ],
+    "subtotal": 43.0,
+    "iva": 6.88,
+    "total": 49.88,
+    "metodo_pago": "Tarjeta",
+    "fecha": "2025-12-13T18:06:21.535458",
+    "cliente_rfc": null,
+    "facturada": false
+  },
+  {
+    "folio": "20251213-0002",
+    "cajero": "admin",
+    "items": [
+      {
+        "codigo_barras": "9900000003883",
+        "nombre": "Coca-Cola Cola 2L (Mini)",
+        "cantidad": 1,
+        "precio_unitario": 35.0,
+        "subtotal": 35.0
+      },
+      {
+        "codigo_barras": "9900000007706",
+        "nombre": "Coca-Cola Cola 355ml Lata (Promoción)",
+        "cantidad": 1,
+        "precio_unitario": 31.12,
+        "subtotal": 31.12
+      },
+      {
+        "codigo_barras": "9900000019211",
+        "nombre": "Coca-Cola Manzana 600ml",
+        "cantidad": 1,
+        "precio_unitario": 23.92,
+        "subtotal": 23.92
+      },
+      {
+        "codigo_barras": "9900000004491",
+        "nombre": "Pepsi Cola 2L",
+        "cantidad": 1,
+        "precio_unitario": 35.0,
+        "subtotal": 35.0
+      },
+      {
+        "codigo_barras": "9900000053772",
+        "nombre": "Sabritas Papas Jalapeño 45g",
+        "cantidad": 1,
+        "precio_unitario": 43.45,
+        "subtotal": 43.45
+      },
+      {
+        "codigo_barras": "9900000048662",
+        "nombre": "Doritos Papas Original 45g (Promoción)",
+        "cantidad": 1,
+        "precio_unitario": 24.51,
+        "subtotal": 24.51
+      }
+    ],
+    "subtotal": 193.0,
+    "iva": 30.88,
+    "total": 223.88,
+    "metodo_pago": "Transferencia",
+    "fecha": "2025-12-13T18:12:08.349389",
+    "cliente_rfc": null,
+    "facturada": false
+  },
+  {
+    "folio": "20251213-0003",
+    "cajero": "owner",
+    "items": [
+      {
+        "codigo_barras": "9900000090265",
+        "nombre": "Vero Chicle Menta (Promoción)",
+        "cantidad": 5,
+        "precio_unitario": 6.64,
+        "subtotal": 33.199999999999996
+      },
+      {
+        "codigo_barras": "9900000033934",
+        "nombre": "Bonafont Agua Mineral 600ml",
+        "cantidad": 2,
+        "precio_unitario": 22.33,
+        "subtotal": 44.66
+      },
+      {
+        "codigo_barras": "9900000106256",
+        "nombre": "Verde Valle Arroz 1kg",
+        "cantidad": 1,
+        "precio_unitario": 40.22,
+        "subtotal": 40.22
+      }
+    ],
+    "subtotal": 118.07999999999998,
+    "iva": 18.892799999999998,
+    "total": 136.97279999999998,
+    "metodo_pago": "Efectivo",
+    "fecha": "2025-12-13T18:15:51.574900",
+    "cliente_rfc": null,
+    "facturada": false
+  },
+  {
+    "folio": "20251213-0004",
+    "cajero": "admin",
+    "items": [
+      {
+        "codigo_barras": "9900000842017",
+        "nombre": "Pedigree Croquetas Perro 1kg",
+        "cantidad": 2,
+        "precio_unitario": 34.35,
+        "subtotal": 68.7
+      },
+      {
+        "codigo_barras": "9900000114022",
+        "nombre": "Peñafiel Agua Natural 600ml (Promoción)",
+        "cantidad": 1,
+        "precio_unitario": 19.01,
+        "subtotal": 19.01
+      },
+      {
+        "codigo_barras": "9900000428044",
+        "nombre": "De La Rosa Chicle Menta (Mini)",
+        "cantidad": 1,
+        "precio_unitario": 13.57,
+        "subtotal": 13.57
+      }
+    ],
+    "subtotal": 101.28,
+    "iva": 16.2048,
+    "total": 117.4848,
+    "metodo_pago": "Tarjeta",
+    "fecha": "2025-12-13T18:22:41.067826",
+    "cliente_rfc": null,
+    "facturada": false
+  },
+  {
+    "folio": "20251213-0005",
+    "cajero": "admin",
+    "items": [
+      {
+        "codigo_barras": "9900000000011",
+        "nombre": "Coca-Cola Cola 600ml",
+        "cantidad": 1,
+        "precio_unitario": 27.19,
+        "subtotal": 27.19
+      },
+      {
+        "codigo_barras": "9900000590017",
+        "nombre": "Herdez Sopa Instantánea",
+        "cantidad": 1,
+        "precio_unitario": 37.66,
+        "subtotal": 37.66
+      }
+    ],
+    "subtotal": 64.85,
+    "iva": 10.376,
+    "total": 75.226,
+    "metodo_pago": "Tarjeta",
+    "fecha": "2025-12-13T18:41:48.294602",
+    "cliente_rfc": null,
+    "facturada": false
+  },
+  {
+    "folio": "20251213-0006",
+    "cajero": "admin",
+    "items": [
+      {
+        "codigo_barras": "9900000848019",
+        "nombre": "Dog Chow Croquetas Perro 1kg",
+        "cantidad": 1,
+        "precio_unitario": 82.47,
+        "subtotal": 82.47
+      }
+    ],
+    "subtotal": 82.47,
+    "iva": 13.1952,
+    "total": 95.6652,
+    "metodo_pago": "Efectivo",
+    "fecha": "2025-12-13T18:42:32.025892",
+    "cliente_rfc": null,
+    "facturada": false
+  },
+  {
+    "folio": "20251213-0007",
+    "cajero": "admin",
+    "items": [
+      {
+        "codigo_barras": "9900000012014",
+        "nombre": "Coca-Cola Cola 2L",
+        "cantidad": 60,
+        "precio_unitario": 29.27,
+        "subtotal": 1756.2
+      }
+    ],
+    "subtotal": 1756.2,
+    "iva": 280.992,
+    "total": 2037.192,
+    "metodo_pago": "Tarjeta",
+    "fecha": "2025-12-13T18:43:27.451966",
+    "cliente_rfc": null,
+    "facturada": false
+  }
+]
